@@ -1,4 +1,4 @@
-#!/bin/sh
+{{#!/bin/sh}}
 
 PROG=${TEST_BINARY_DIR}/test_basic
 
